@@ -1,5 +1,7 @@
 # Quadrupole optical force calculations for particle hopping
 
+Interactive python notebook (based on JupyterLite)
+http://toftul.github.io/quadrupole-optical-force-and-particle-hopping 
 
 ## Further Information and Updates
 
